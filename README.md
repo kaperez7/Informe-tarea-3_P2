@@ -199,11 +199,292 @@ donde Cx es cualquier capacitor en serie (tal como C1, C2 o C3), Vx es el voltaj
 
 **3.-Cierto generador de cuatro polos gira a 3600 rpm. ¿Cuál es la frecuencia del voltaje que produce?**
 
+![image](https://user-images.githubusercontent.com/105570939/179178638-ee3bca68-9560-4c02-8b1d-d1fb5952c51e.png)
 
+**SECCIÓN 11–3 Valores sinusoidales de voltaje y corriente**
 
+**4.-El valor pico de una onda seno es de 12 V. Determine los siguientes valores:**
 
+![image](https://user-images.githubusercontent.com/105570939/179178951-675112fc-f69c-43d1-b186-6c04b59ffc34.png)
 
+**5.-Para la onda seno de la figura, determine los valores pico, pico a pico, rms y promedio.**
 
+![image](https://user-images.githubusercontent.com/105570939/179179146-d0d664fd-1101-45b1-af2d-ba04a2ef48a3.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179179190-80b82121-e1d9-40c9-b045-307d74c8d219.png)
+
+**SECCIÓN 11–4 Medición angular de una onda seno**
+
+**6.-Cambie los siguientes valores angulares de radianes a grados:**
+
+![image](https://user-images.githubusercontent.com/105570939/179179453-80077a99-7699-4123-9f21-0b8b731f154f.png)
+
+**7.-Una onda seno tiene un pico positivo en 75° y otro con un pico positivo en 100°. ¿Cuánto se desfasa cada onda seno con respecto a la referencia de 0°? ¿Cuál es el ángulo de fase entre estas ondas?**
+
+![image](https://user-images.githubusercontent.com/105570939/179179701-e2d98f41-7bc7-4564-a407-b9113819403b.png)
+
+**SECCIÓN 11–5 La fórmula de la onda seno**
+
+**8.-Cierta onda seno tiene un cruce por cero hacia positivo en 0° y valor rms de 20 V. Calcule su valor instantáneo en cada uno de los siguientes ángulos:**
+
+![image](https://user-images.githubusercontent.com/105570939/179180273-588a19f5-c71c-4094-9517-08a288c5a893.png)
+
+**9.-Para una onda seno referida a 0° con valor rms de 6.37 V, determine el valor instantáneo en cada uno de los puntos siguientes:**
+
+![image](https://user-images.githubusercontent.com/105570939/179180640-3fb3986d-b312-43ec-a585-9cd16c7762c4.png)
+
+**10.-Repita el problema 19 para el caso en que la onda seno A va 30° delante de la onda seno B.**
+
+![image](https://user-images.githubusercontent.com/105570939/179180757-2a9dd4dd-f6c1-42c6-9982-0de9c1dd32cf.png)
+
+**SECCIÓN 11–6 Introducción a los fasores**
+
+**11.-Trace un diagrama fasorial para representar las ondas seno de la figura con respecto a la referencia de 0°.**
+
+![image](https://user-images.githubusercontent.com/105570939/179181016-505afad5-ef35-4cae-98fc-0b5970ac2a93.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179181365-1b155410-65dd-40e2-b39a-5d34d06ad321.png)
+
+a 30 ms
+
+Vi = Vpsen (π/4 - 2πft) = 1sen (π/4 - 2π530) = 0.16 V
+
+**12.-Determine la frecuencia para cada velocidad angular:**
+
+![image](https://user-images.githubusercontent.com/105570939/179181469-d84d4a77-ad91-43cd-98f0-4fdf0c8b059e.png)
+
+**SECCIÓN 11–7 Análisis de circuitos de ca**
+
+**13.-Se aplica un voltaje sinusoidal al circuito resistivo de la figura. Determine los valores siguientes:**
+
+![image](https://user-images.githubusercontent.com/105570939/179181862-4917facf-26c9-4265-8e26-bc49d1b0cfa1.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179181625-f9475497-2e10-4a99-a6c1-b5bdb706581a.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179181805-c033d5b0-0197-4ac1-a73d-86b5ddd677bc.png)
+
+**14.-Determine el voltaje rms entre los extremos de R3 en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/179181941-aba89614-bae6-4834-b595-1cadd84e2fea.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179182047-9ef5ca1a-5e34-458d-91fa-bcbb0d711ec0.png)
+
+**SECCIÓN 11–8 Voltajes superpuestos de cd y de ca**
+
+**15.-¿Cuánto voltaje de cd se debe agregar a una onda seno de 3 V rms para hacer el voltaje resultante no alterno (valores negativos)?**
+
+![image](https://user-images.githubusercontent.com/105570939/179182270-c92567a6-3da5-4f54-a551-5c60023864da.png)
+
+**16.-La figura muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.**
+
+![image](https://user-images.githubusercontent.com/105570939/179182486-7da54ade-91ec-4df7-bfec-0596ef8b1b78.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179182533-8c237443-4437-458f-a357-38049ea9d919.png)
+
+**SECCIÓN 11–9 Formas de onda no sinusoidales.**
+
+**17.-La frecuencia de repetición de una forma de onda pulsante es de 2 kHz, y el ancho de pulso es de 1 ms. ¿Cuál es el ciclo de trabajo en porcentaje?**
+
+![image](https://user-images.githubusercontent.com/105570939/179183829-1f88a167-40db-466d-a312-3108c39976cb.png)
+
+**18.-Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/179183979-d1b6052a-5007-40d8-8dd2-ddc7fc40d568.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179184043-b43eaae2-63cb-4d4c-95c7-8112bc052744.png)
+
+**19.-¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/179184198-73bc6969-7dc7-4f4f-925f-175371ba1806.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179184257-e7cee789-237c-42cd-911c-ba5e60b0957a.png)
+
+**20.-Una forma de onda no sinusoidal llamada escalonada se muestra en la figura. Determine su valor promedio.**
+
+![image](https://user-images.githubusercontent.com/105570939/179184522-c72327e3-89f0-40ce-b823-631b60e93d68.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179184574-33c8c7b6-afb5-48e1-9a0d-d4abaccd1c99.png)
+
+**21.-¿Cuál es la frecuencia fundamental de la onda cuadrada mencionada en el problema 41?**
+
+![image](https://user-images.githubusercontent.com/105570939/179184722-04885cbf-9fbb-4443-86fa-69acd2edb002.png)
+
+**SECCIÓN 11–10 El osciloscopio.**
+
+**22.-Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrados en la figura, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados.**
+
+![image](https://user-images.githubusercontent.com/105570939/179185098-104f41aa-530f-49b8-965c-586e43f7c5a4.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179185186-7986c612-4137-46c4-a8a2-d2ac67e61376.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179185266-1f276046-79a6-48f6-a86b-b42ac9e7d1d6.png)
+
+**CAPITULO 12: CAPACITORES.**
+
+**SECCIÓN 12–1 El capacitor básico.**
+![image](https://user-images.githubusercontent.com/105570939/179186362-ac53cec5-132c-4192-b059-0a70326dbf7f.png)
+
+**27.-Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria
+de las ciencias. Planea utilizar un dieléctrico de papel (er  2.5) de 8  105 m de espesor. La feria de
+las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
+tamaño serían las placas si pudieran ser construidas?
+**23.-Transforme los siguientes valores de microfarads a picofarads:**
+
+![image](https://user-images.githubusercontent.com/105570939/179185779-b1a78da8-1314-4f10-826e-1d3fb6f2ea1b.png)
+
+**24.-Transforme los siguientes valores de farads a microfarads;**
+
+![image](https://user-images.githubusercontent.com/105570939/179185887-844ebca4-a4ee-4c81-8209-565e783f76c2.png)
+
+**25.-¿Qué tamaño de capacitor es capaz de guardar 10 mJ de energía con 100 V entre sus placas?**
+
+![image](https://user-images.githubusercontent.com/105570939/179186135-4c8cdbc4-4751-4933-a643-592dd06d2589.png)
+
+**26.-Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?**
+
+![image](https://user-images.githubusercontent.com/105570939/179186829-b1d73f0b-77c8-403d-9310-430b52befbb7.png)
+
+**27.-Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er=2.5) de 8 x 10^-5 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?**
+
+![image](https://user-images.githubusercontent.com/105570939/179187221-1897b1fc-25de-4f89-90d8-55a867bae9b9.png)
+
+**28.-A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
+
+![image](https://user-images.githubusercontent.com/105570939/179187540-c31073e2-f382-4083-be2a-c38ca498c865.png)
+
+**SECCIÓN 12–2 Tipos de capacitores.**
+
+**29.-En la construcción de un capacitor de hojas de mica y laminillas apiladas, ¿cómo se incrementa el área de placas?**
+
+El área de la placa va aumentando el número de capas de la placa
+
+**30.-Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/179187621-d75145d8-6224-4d3b-878a-ef054b15b81a.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179187729-1c21eb61-aae8-4b0c-9485-5fd488b7f224.png)
+
+**31.-Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/179187995-7be1a6fd-20b4-42ae-be0c-f0af92dcb6b6.png)
+
+a) Encapsulación
+
+b) Dieléctrico
+
+c) Placa (disco de metal)
+
+d) Cables conductores
+
+**SECCIÓN 12–3 Capacitores en serie.**
+
+**32.-Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?**
+
+![image](https://user-images.githubusercontent.com/105570939/179188122-48886ae9-db82-4bcc-92e4-58b66b0479ff.png)
+
+**33.-Para cada circuito de la figura, determine el voltaje entre las terminales de cada capacitor.**
+
+![image](https://user-images.githubusercontent.com/105570939/179188659-56ef466e-746b-48ab-89e1-8c92a72732c4.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179188827-7a9e5630-ddc0-4722-b448-f0e857699899.png)
+
+**34.-La carga total guardada por los capacitores en serie de la figura es de 10 uC. Determine el voltaje entre las terminales de cada capacitor.**
+
+![image](https://user-images.githubusercontent.com/105570939/179188906-446089d0-480e-4c41-8df9-1cb7c5d4c9d0.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179188951-99a3a3c8-ab14-4b52-ada1-772f60c28063.png)
+
+**SECCIÓN 12–4 Capacitores en paralelo**
+
+**35.-¿Cuál es la carga en cada capacitor de la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/179189309-f4e7c817-5379-4232-a714-fd7f2aaac098.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179189457-5d5399da-dccc-47c2-abe4-1a389585b487.png)
+
+**36.-¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/179189617-5d06026d-0eb3-4997-a3ac-085b45de76f2.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179189718-7e42ab3a-5f30-4f1a-82f2-f0352ab2331a.png)
+
+**SECCIÓN 12–5 Capacitores en circuitos de cd**
+
+**37.-Determine la constante de tiempo para cada una de las combinaciones en serie:**
+
+![image](https://user-images.githubusercontent.com/105570939/179190087-b2c2c68a-7c4d-476e-9a5a-80965d5a283f.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179190129-bba1fcb9-0a45-4001-acd2-0b721fe7be9c.png)
+
+**38.-En el circuito de la figura, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:**
+
+![image](https://user-images.githubusercontent.com/105570939/179190484-a9a928cb-51d7-4cdf-a9bf-dc3d0021b6f3.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179191111-1f083be5-3e28-4700-a274-438a01024598.png)
+
+**39.-Repita el problema 32 con los siguientes intervalos de tiempo:**
+
+![image](https://user-images.githubusercontent.com/105570939/179191376-5713af18-15ff-4a4f-9470-cadd1c084d3d.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179191317-1f02491b-c884-4934-a896-231b5633d0fa.png)
+
+**40.-Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura llega a 6 V después de cerrar el interruptor.**
+
+![image](https://user-images.githubusercontent.com/105570939/179191554-36fde0a7-496f-458b-b9ae-bd0ec193b603.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179191649-2a5e6075-3187-4340-9047-21f0c2ef6c73.png)
+
+**41.-¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/179191806-90e15c76-108c-4081-92ad-af6a746324bb.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179191864-a5ac2389-cc2c-491b-bdf6-a8395668fb6a.png)
+
+**42.-En la figura, inicialmente el capacitor está descargado. En el instante t=10 us después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.**
+
+![image](https://user-images.githubusercontent.com/105570939/179192035-a5d5c17c-6659-40e7-a69d-4b1af0369bc8.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179192112-d6ebd74a-ffd9-4e51-a8fc-8311a499cd45.png)
+
+**SECCIÓN 12–6 Capacitores en circuitos de ca.**
+
+**43.-¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/179192328-c1622c3d-596c-42b4-9fc7-c517b2fe3b6c.png)
+
+**44.-En cada circuito de la figura, ¿qué frecuencia se requiere para producir una XC de 100 ohmios? ¿Una XC de 1 kohmio?**
+
+![image](https://user-images.githubusercontent.com/105570939/179192490-08a94967-c948-48b2-b7c7-ac805ac43422.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179192619-cbc7e0a1-e283-4111-87af-cfdca8f92790.png)
+
+**45.-Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?**
+
+![image](https://user-images.githubusercontent.com/105570939/179192762-ed1a912e-68b9-47b9-9f2b-b482db9a7b09.png)
+
+**46.-Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/179192889-a0641d46-d431-4c40-ba02-6e5804a38fad.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179193141-1f0470cd-29b7-45f1-9580-6b52c493e963.png)
+
+**47.-Si en la figura C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.**
+
+![image](https://user-images.githubusercontent.com/105570939/179193273-54570906-5655-4f30-96eb-fad1a75bc910.png)
+
+![image](https://user-images.githubusercontent.com/105570939/179193367-329f86cd-9a22-4cc8-a728-989dfc44f836.png)
+
+**SECCIÓN 12–7 Aplicaciones de los capacitores.**
+
+**48.-Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?**
+
+La reactancia de un capacitor debe ser de 0 Ω para que se pueda eliminarr un voltaje de ca de 10kHz
+
+**SECCIÓN 12–8 Circuitos de capacitor conmutado.**
+
+**En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una frecuencia de 8 kHz. ¿Qué valor de resistor se emula?**
+
+![image](https://user-images.githubusercontent.com/105570939/179193690-0513c3a9-1182-441d-8c75-3082d082c42d.png)
 
 4. VIDEO
 
