@@ -488,9 +488,7 @@ La reactancia de un capacitor debe ser de 0 Ω para que se pueda eliminarr un vo
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe expl11–6 INTRODUCCIÓN A LOS FASORESicar 4 ejercicios o problemas.
-
+https://youtu.be/GcWQAwksqZ4
 
 5. CONCLUSIONES
 
