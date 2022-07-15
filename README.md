@@ -322,7 +322,6 @@ Vi = Vpsen (π/4 - 2πft) = 1sen (π/4 - 2π530) = 0.16 V
 **CAPITULO 12: CAPACITORES.**
 
 **SECCIÓN 12–1 El capacitor básico.**
-![image](https://user-images.githubusercontent.com/105570939/179186362-ac53cec5-132c-4192-b059-0a70326dbf7f.png)
 
 **27.-Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria
 de las ciencias. Planea utilizar un dieléctrico de papel (er  2.5) de 8  105 m de espesor. La feria de
@@ -342,15 +341,15 @@ tamaño serían las placas si pudieran ser construidas?
 
 **26.-Un capacitor de mica tiene placas cuadradas de 3.8 cm por lado con una separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?**
 
-![image](https://user-images.githubusercontent.com/105570939/179186829-b1d73f0b-77c8-403d-9310-430b52befbb7.png)
+![image](https://user-images.githubusercontent.com/105570939/179186362-ac53cec5-132c-4192-b059-0a70326dbf7f.png)
 
 **27.-Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de papel (er=2.5) de 8 x 10^-5 m de espesor. La feria de las ciencias se va a llevar a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué tamaño serían las placas si pudieran ser construidas?**
 
-![image](https://user-images.githubusercontent.com/105570939/179187221-1897b1fc-25de-4f89-90d8-55a867bae9b9.png)
+![image](https://user-images.githubusercontent.com/105570939/179186829-b1d73f0b-77c8-403d-9310-430b52befbb7.png)
 
 **28.-A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál es su capacitancia a 75°C?**
 
-![image](https://user-images.githubusercontent.com/105570939/179187540-c31073e2-f382-4083-be2a-c38ca498c865.png)
+![image](https://user-images.githubusercontent.com/105570939/179187221-1897b1fc-25de-4f89-90d8-55a867bae9b9.png)
 
 **SECCIÓN 12–2 Tipos de capacitores.**
 
@@ -360,13 +359,13 @@ El área de la placa va aumentando el número de capas de la placa
 
 **30.-Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura.**
 
-![image](https://user-images.githubusercontent.com/105570939/179187621-d75145d8-6224-4d3b-878a-ef054b15b81a.png)
+![image](https://user-images.githubusercontent.com/105570939/179187540-c31073e2-f382-4083-be2a-c38ca498c865.png)
 
-![image](https://user-images.githubusercontent.com/105570939/179187729-1c21eb61-aae8-4b0c-9485-5fd488b7f224.png)
+![image](https://user-images.githubusercontent.com/105570939/179187621-d75145d8-6224-4d3b-878a-ef054b15b81a.png)
 
 **31.-Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura.**
 
-![image](https://user-images.githubusercontent.com/105570939/179187995-7be1a6fd-20b4-42ae-be0c-f0af92dcb6b6.png)
+![image](https://user-images.githubusercontent.com/105570939/179187729-1c21eb61-aae8-4b0c-9485-5fd488b7f224.png)
 
 a) Encapsulación
 
@@ -380,17 +379,18 @@ d) Cables conductores
 
 **32.-Cinco capacitores de 1000 pF están en serie. ¿Cuál es la capacitancia total?**
 
-![image](https://user-images.githubusercontent.com/105570939/179188122-48886ae9-db82-4bcc-92e4-58b66b0479ff.png)
+![image](https://user-images.githubusercontent.com/105570939/179187995-7be1a6fd-20b4-42ae-be0c-f0af92dcb6b6.png)
+
 
 **33.-Para cada circuito de la figura, determine el voltaje entre las terminales de cada capacitor.**
 
-![image](https://user-images.githubusercontent.com/105570939/179188659-56ef466e-746b-48ab-89e1-8c92a72732c4.png)
+![image](https://user-images.githubusercontent.com/105570939/179188122-48886ae9-db82-4bcc-92e4-58b66b0479ff.png)
 
-![image](https://user-images.githubusercontent.com/105570939/179188827-7a9e5630-ddc0-4722-b448-f0e857699899.png)
+![image](https://user-images.githubusercontent.com/105570939/179188659-56ef466e-746b-48ab-89e1-8c92a72732c4.png)
 
 **34.-La carga total guardada por los capacitores en serie de la figura es de 10 uC. Determine el voltaje entre las terminales de cada capacitor.**
 
-![image](https://user-images.githubusercontent.com/105570939/179188906-446089d0-480e-4c41-8df9-1cb7c5d4c9d0.png)
+![image](https://user-images.githubusercontent.com/105570939/179188827-7a9e5630-ddc0-4722-b448-f0e857699899.png)
 
 ![image](https://user-images.githubusercontent.com/105570939/179188951-99a3a3c8-ab14-4b52-ada1-772f60c28063.png)
 
